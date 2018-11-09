@@ -1,4 +1,4 @@
-1,4-Dideoxy-1,4-Imino-(5-O-Beta-D-Glucopyranosyl)-D-Arabinitol
+﻿1,4-Dideoxy-1,4-Imino-(5-O-Beta-D-Glucopyranosyl)-D-Arabinitol
 1-Methyl-4-Prop-1-En-2-Ylcyclohexan-1-Ol
 1,4-Dimethylnaphthalene
 12-O-Deacetyl-19-O-Methyldeoxoscalarin
@@ -1453,7 +1453,7 @@ n.a.
 (1R,4S,5R,8S)-5-[(1S,2R)-1,2-dihydroxypropyl]-8-hydroxy-4-methyl-7-oxabicyclo[3.2.1]oct-2-en-6-one
 1,8-dihydroxy-3-[(E)-7-methoxy-3,7-dimethyloct-2-enoxy]-6-methyl-10H-anthracen-9-one
 (1aR,6R,7R,7aR,7bR)-6-hydroxy-1a-[(2R)-2-(hydroxymethyl)oxiran-2-yl]-7,7a-dimethyl-5,6,7,7b-tetrahydro-4H-naphtho[1,2-b]oxiren-2-one
-1a-chloro-2�,3�,15-trihydroxynagilactone L
+1a-chloro-2b,3b,15-trihydroxynagilactone L
 15-hydroxynagilactone L
 (10R*)-10-O-Methylfurocaespitanelactol
 1,2-Dioleoyl-Sn-Glycerol

@@ -77,7 +77,7 @@ def selenNPASS(cmpdName,driver=None):
 	windows = driver.window_handles
 	driver.switch_to.window(windows[1])
 	try:
-		element = WebDriverWait(driver, 1).until(lambda driver: matchCnt(driver,cmpdName)>0 )
+		element = WebDriverWait(driver, 0.75).until(lambda driver: matchCnt(driver,cmpdName)>0 )
 		if element:
 			return True
 	except TimeoutException:
