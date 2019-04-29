@@ -99,14 +99,14 @@ def splitTxt(cmpdName):
 	
 	
 def dblNameSelenNpass(cmpdName,driver):
-	cname = splitTxt(cmpdName)
-	if len(cname) >1:
-		first_cnameRslt = selenNPASS(cname[0],driver)
-		if first_cnameRslt:
-			return first_cnameRslt #return True
-		else:
-			sec_cnameRslt = selenNPASS(cname[1],driver)
-			return sec_cnameRslt #return True
-	else:
-		return selenNPASS(cname[0],driver)
-			
+    '''checks if there are two common names to search from the CS database'''
+    cname = splitTxt(cmpdName)
+    if len(cname) >1:
+        first_cnameRslt = selenNPASS(cname[0],driver)
+        if first_cnameRslt:
+            return first_cnameRslt #return True
+        else:
+            sec_cnameRslt = selenNPASS(cname[1],driver)
+            return sec_cnameRslt #return True
+    else:
+        return selenNPASS(cname[0],driver)
